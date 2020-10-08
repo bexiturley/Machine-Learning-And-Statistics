@@ -1,2 +1,2 @@
-# Machine-Learning-Statistics
+# Machine Learning And Statistics
 
