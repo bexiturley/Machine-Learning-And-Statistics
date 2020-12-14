@@ -11,7 +11,7 @@ Email: G00376344@gmit.ie<br>
 
 Contained within Tasks.ipynd file is my submission through Jupyter notebook.  <br>
 
-**Task 1** - Write a Python function called sqrt2 that calculates and prints to the screen the square root of 2 to 100 decimal places. Your code should not depend on any module from the standard library or otherwise. You should research the task first and include references and a description of your algorithm.
+**Task 1** - Write a Python function called sqrt2 that calculates and prints to the screen the square root of 2 to 100 decimal places. 
 
 **Task 2** - Use scipy.stats to verify the Chi-squared value on a Wikipedia article is approximately 24.6. value and calculate the associated p value.
 
@@ -21,9 +21,10 @@ Contained within Tasks.ipynd file is my submission through Jupyter notebook.  <b
 
 Also contained is a copy of the Iris dataset as a csv file.
 
-<br>
+
 ***
-####  Accessing the project
+
+#### Accessing the project
 
 The best way to access the code for this project is to clone the repository from Github:
 https://github.com/bexiturley/Machine-Learning-And-Statistics.git or Jupyter Notebooks viewer, https://nbviewer.jupyter.org/.  Where indicated, paste the link to the notebook to be viewed.
